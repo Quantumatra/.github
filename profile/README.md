@@ -134,6 +134,6 @@ Where:
 
 <p align="center">
   <b style="color:#7AF7FF;">
-    Quantumatra — Build the Future Before It Collapses Into Itself
+    Quantumatra: Build the Future Before It Collapses Into Itself
   </b>
 </p>
