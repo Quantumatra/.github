@@ -52,7 +52,7 @@ We operate across:
 We collapse the delay between **idea and execution** in frontier science.
 
 ### We accelerate:
-- Quantum + AI + Neural Nets convergence  
+- Quantum + AI + Blockchain + Neural Nets convergence  
 - Solana-native scientific deployment  
 - Early-stage deep-tech funding  
 - Real-world execution of research breakthroughs  
